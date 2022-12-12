@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\bin\Debug\net5.0\String_Metotlar.exe
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\bin\Debug\net5.0\String_Metotlar.deps.json
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\bin\Debug\net5.0\String_Metotlar.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\bin\Debug\net5.0\String_Metotlar.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\bin\Debug\net5.0\String_Metotlar.dll
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\bin\Debug\net5.0\String_Metotlar.pdb
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\String_Metotlar.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\String_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\String_Metotlar.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\String_Metotlar.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\String_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\String_Metotlar.dll
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\refint\String_Metotlar.dll
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\String_Metotlar.pdb
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\String_Metotlar.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\String_Hazır_Metotlar\obj\Debug\net5.0\ref\String_Metotlar.dll
